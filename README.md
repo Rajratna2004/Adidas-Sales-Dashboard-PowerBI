@@ -39,7 +39,7 @@ The **Adidas Sales Dashboard** helps in:
 
 ## 📂 Project File
 
-- **File Name:** ``  
+- **File Name:** `https://github.com/Rajratna2004/Adidas-Sales-Dashboard-PowerBI/blob/main/adidas%20sales%20dashboard.pbix`  
 - **Type:** Power BI Project File  
 - **Open With:** Power BI Desktop  
 
