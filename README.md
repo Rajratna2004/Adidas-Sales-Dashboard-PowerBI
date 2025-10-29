@@ -44,5 +44,10 @@ The **Adidas Sales Dashboard** helps in:
 - **Open With:** Power BI Desktop  
 
 ---
+## Screen-Shots
+<img width="1370" height="737" alt="Screenshot 2025-10-29 114254" src="https://github.com/user-attachments/assets/ebc66878-34fb-4576-8ac0-10a0f0c32eaa" />
+
+<img width="1286" height="726" alt="Screenshot 2025-10-29 114317" src="https://github.com/user-attachments/assets/c384d882-af0d-4b4d-9842-0f66acd78b02" />
+
 
 
